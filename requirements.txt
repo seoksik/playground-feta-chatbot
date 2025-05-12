@@ -10,7 +10,8 @@ python-dotenv>=1.0.0
 streamlit>=1.30.0
 streamlit-extras>=0.3.5
 tqdm>=4.66.1
-chromadb>=0.4.22
+# chromadb>=0.4.22
+chromadb==0.3.29
 lxml>=4.9.3
 markdownify>=0.11.6
 atlassian-python-api>=3.41.2
